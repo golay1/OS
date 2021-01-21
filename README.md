@@ -1,2 +1,2 @@
 # OS
-Operating Systems assignments
+Operating Systems assignments in C
